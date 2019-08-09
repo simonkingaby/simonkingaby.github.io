@@ -1,0 +1,44 @@
+h1 {
+    color: yellow;
+    background-color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 36pt;
+}
+
+p {
+    color: blue;
+    background-color: azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 18pt;
+}
+
+#P1 {
+    color: rgb(119, 81, 32);
+}
+
+#P2 {
+    font-size: 250%;
+}
+
+a {
+    font-style: normal;
+}
+
+a:visited {
+    color: rgba(95, 255, 47, 0.171);
+}
+
+a:link {
+    color: plum;
+}
+
+.Awesome {
+    font-size: 48pt;
+}
+
+.jealous {
+    color: lightgreen;
+    background-color: darkgreen;
+}
